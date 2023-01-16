@@ -41,7 +41,7 @@ input {
 }
 
 .data-container {
-  margin-top: 10px;
+  margin-top: 20px;
   padding: 0;
 }
 
@@ -66,6 +66,11 @@ li {
   border: 2px solid #000;
   border-radius: 25px;
   margin-top: 10px;
+}
+
+.table-list {
+  display: flex;
+  justify-content: space-around;
   padding-left: 10px;
 }
 
